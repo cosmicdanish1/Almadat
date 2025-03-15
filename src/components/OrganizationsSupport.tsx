@@ -1,14 +1,10 @@
 
 const OrganizationsSupport = () => {
   return (
-      <div className="flex space-x-16 animate-wiggle">
-       <p className="text-7xl">A</p>
-       <p className="text-7xl">A</p>
-       <p className="text-7xl">A</p>
-       <p className="text-7xl">A</p>
-       <p className="text-7xl">A</p>
-       <p className="text-7xl">A</p>
-      </div>
+     <>
+     <div className="h-100 text-center">
+           Organtion Support
+      </div></>
   )
 }
 

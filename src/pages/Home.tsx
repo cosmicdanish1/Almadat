@@ -10,6 +10,7 @@ import Volunteers from "../components/Volunteers"
 import Donors from "../components/Donors"
 import QRDonation from "../components/QRDonation"
 import OrganizationsSupport from "../components/OrganizationsSupport"
+import OurWork from "../components/OurWork"
 const Home = () => {
   return (
 
@@ -22,9 +23,10 @@ const Home = () => {
     <Impact/>
     <Volunteers/>
     <Donors/>
+    <QRDonation/>
+    <OurWork/>
     <OrganizationsSupport/>
     <Donation />
-    <QRDonation/>
     <Footer/>
     </div>
     </>
