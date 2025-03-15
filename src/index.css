@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@plugin  "tailwindcss-animate";
+
+
+    
+@theme {
+  --animate-wiggle: wiggle 1s ease-in-out infinite;
+  @keyframes wiggle {
+    0%,
+    100% {
+      transform: rotate(-3deg);
+    }
+    50% {
+      transform: rotate(3deg);
+    }
+  }
+}
+*{
+
+  background-color: calc(#e7e6e3);
+}
+
