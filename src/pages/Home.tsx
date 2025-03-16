@@ -11,6 +11,7 @@ import Donors from "../components/Donors"
 import QRDonation from "../components/QRDonation"
 import OrganizationsSupport from "../components/OrganizationsSupport"
 import OurWork from "../components/OurWork"
+import Story from "../components/Story"
 const Home = () => {
   return (
 
@@ -24,7 +25,7 @@ const Home = () => {
     <Volunteers/>
     <Donors/>
     <QRDonation/>
-    <OurWork/>
+    <Story/>
     <OrganizationsSupport/>
     <Donation />
     <Footer/>
