@@ -18,7 +18,8 @@ const OrganizationsSupport = () => {
   return (
    <>
    <div className="">
-    <h2 >ORGANIZATIONS THAT SUPPORT US</h2>
+    <h2 >ORGANIZATIONS TsHAT SUPPsdssOsRT US</h2>
+    {organization}
    </div>
    </>
   )
