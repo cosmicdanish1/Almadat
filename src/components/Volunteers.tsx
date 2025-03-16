@@ -75,7 +75,7 @@ const Volunteers = () => {
 
     </article>
   </div>
-  <button className='px-5 py-2.5 mt-5 text-4xl w-50 text-white bg-red-400 rounded-2xl hover:bg-red-500 transition-colors focus:outline-neutral-800 focus:ring-2 focus:ring-red-300'>Join Us</button>
+  <button className='px-5 py-2.5 mt-2 text-4xl w-50 text-white bg-red-400 rounded-2xl hover:color-red transition-colors focus:outline-neutral-800 focus:ring-2 focus:ring-red-300'>Join Us</button>
 </section>
     
     </>

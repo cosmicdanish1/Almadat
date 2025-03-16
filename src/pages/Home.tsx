@@ -10,7 +10,7 @@ import Volunteers from "../components/Volunteers"
 import Donors from "../components/Donors"
 import QRDonation from "../components/QRDonation"
 import OrganizationsSupport from "../components/OrganizationsSupport"
-import OurWork from "../components/OurWork"
+
 import Story from "../components/Story"
 const Home = () => {
   return (

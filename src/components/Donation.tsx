@@ -12,7 +12,7 @@ const Donation = () => {
                      <p className="text-sm text-black mt-4 max-w-lg max-auto text-left ">You give but little when you give of your possessions. It is when you give of yourself.
                     </p>
 
-                        <button className="bg-black flex justify-center text-white flex h-10 text-center w-[30%]  px-4 py-5 text-center rounded-4xl mt-3 text-lg font-light  drop-shadow-[0_35px_35px_rgba(0,0,7,1)] hover:bg-gray-800 transition-colors">Donate Now</button>
+                        <button className="bg-black flex justify-center text-white  h-10  w-[30%]  p-2 text-center rounded-4xl mt-3 text-lg font-light  drop-shadow-[0_35px_35px_rgba(0,0,7,1)] hover:bg-gray-800 transition-colors">Donate Now</button>
                     </div>
                     </div>
                 </div>

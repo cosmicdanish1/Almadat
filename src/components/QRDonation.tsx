@@ -4,7 +4,7 @@ const QRDonation = () => {
   return (
 
   <>
-  <section className=' w-[85%]  mx-auto px-0 py-12 text-center bg-red items-center bg-[#EF5D5E] rounded-4xl drop-shadow-2xl '>
+  <section className=' w-[85%]  mx-auto px-0 py-12 text-center color-reditems-center color-red rounded-4xl drop-shadow-2xl '>
     <div className='flex flex-col justify-center'>
       <h2 className='text-5xl font-light text-white'>MAKE A DONATION</h2>
       <div className='flex justify-center mt-18 gap-28 drop-shadow-2xl'>

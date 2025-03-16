@@ -8,7 +8,7 @@ import Education from "../assets/Education.png";
 const Impact = () => {
   return (
   <>
-  <section className='px-0 py-12 text-center bg-[#E15B5B]'>
+  <section className='px-0 py-12 text-center color-red'>
     <h2 className='text-6xl text-white'>Our Impect</h2>
         <div className='flex justify-center gap-40 items-center mt-5 flex-wrap'>
             <div className='flex flex-col items-center p-4'>
