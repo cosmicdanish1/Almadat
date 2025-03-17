@@ -7,8 +7,8 @@
 @theme {
   --animate-wiggle: wiggle 1s ease-in-out infinite;
   --font-kaisei: "Kaisei Opti", "serif";
+  --animate-ping:   ;
   
- 
   
 }
 *{
@@ -28,3 +28,4 @@
 .color-red{
   background-color: #E15B5B;
 }
+
